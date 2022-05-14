@@ -10,7 +10,6 @@ const Desconocido502 = {
 }
 ```
 
-
 --------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://github.com/Desconocido502/Desconocido502">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desconocido502&hide=java,html,tex&theme=ocean_dark" />
@@ -22,3 +21,5 @@ const Desconocido502 = {
 <a href="https://github.com/Desconocido502/javascript_basico">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Desconocido502&repo=javascript_basico&theme=ocean_dark" />
 </a>
+
+You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
