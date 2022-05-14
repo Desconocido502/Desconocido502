@@ -14,19 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# console.log("Hello world!!! ⚡")
+# console.log("Hello world!!! ⚡") <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Desconocido502&show_icons=true&theme=ocean_dark)
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desconocido502&theme=ocean_dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/readme-card/?username=Desconocido502&theme=ocean_dark" />
 
 --------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://github.com/Desconocido502/Desconocido502">
