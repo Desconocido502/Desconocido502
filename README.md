@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Desconocido502&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Desconocido502&show_icons=true&theme=ocean_dark)
