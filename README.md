@@ -25,3 +25,20 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desconocido502&theme=ocean_dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/readme-card/?username=Desconocido502&theme=ocean_dark" />
+
+--------------------------------------------------------------------------------------------------------------------------------------
+<a href="https://github.com/Desconocido502/Desconocido502">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desconocido502&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Desconocido502/Desconocido502">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Desconocido502&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Carlos's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Desconocido502/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Desconocido502&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/Desconocido502/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Desconocido502&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
