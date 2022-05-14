@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Desconocido502&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/Stats Card/?username=Desconocido502&theme=ocean_dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desconocido502&theme=ocean_dark" />
