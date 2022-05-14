@@ -11,6 +11,8 @@ const Desconocido502 = {
 ```
 
 --------------------------------------------------------------------------------------------------------------------------------------
+## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/Desconocido502/Desconocido502">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desconocido502&hide=java,html,tex&theme=aura_dark" />
 </a>
