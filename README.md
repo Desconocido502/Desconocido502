@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Desconocido502&show_icons=true&theme=ocean_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Desconocido502&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desconocido502&theme=ocean_dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/readme-card/?username=Desconocido502&theme=ocean_dark" />
