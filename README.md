@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 </a>
 
 
-<a href="https://github.com/Desconocido502/IPC2_Practica1_201902502">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Desconocido502&repo=IPC2_Practica1_201902502&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Desconocido502/javascript_basico">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Desconocido502&repo=javascript_basico&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
