@@ -34,8 +34,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Desconocido502&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Carlos's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Desconocido502/LFP_PR2_201902502">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Desconocido502&repo=LFP_PR2_201902502&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/ Desconocido502/IPC2_Practica_2_201902502">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Desconocido502&repo=IPC2_Practica_2_201902502&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
