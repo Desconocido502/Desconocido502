@@ -4,7 +4,7 @@
 
 ```javascript
 const Desconocido502 = {
-  pronouns: "he" | "him"
+  pronouns: "he" | "him",
   code: [JavaScript, TypeScript, HTML, CSS, Python, Java],
   tools: [Node, React]
 }
