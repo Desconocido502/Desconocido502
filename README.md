@@ -4,6 +4,7 @@ Hi!!! I'm Carlos and I'm learning Javascript
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 
 ```javascript
 const Desconocido502 = {
@@ -27,6 +28,4 @@ const Desconocido502 = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Desconocido502&repo=javascript_basico&theme=aura_dark" />
 </a>
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+
