@@ -45,5 +45,5 @@ You can find me on [![LinkedIn][3.2]][3].
 <!-- links to your social media accounts -->
 
 [2]: https://github.com/Desconocido502
-[3]: https://www.linkedin.com/in/carlos-soto/
+[3]: https://www.linkedin.com/in/carlos-soto-902b511a8
 
