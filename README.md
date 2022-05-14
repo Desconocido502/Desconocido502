@@ -12,16 +12,15 @@ const Desconocido502 = {
 
 --------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://github.com/Desconocido502/Desconocido502">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desconocido502&hide=java,html,tex&theme=ocean_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desconocido502&hide=java,html,tex&theme=aura_dark" />
 </a>
 <a href="https://github.com/Desconocido502/Desconocido502">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Desconocido502&show_icons=true&line_height=27&count_private=true&theme=ocean_dark" alt="Carlos's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Desconocido502&show_icons=true&line_height=27&count_private=true&theme=aura_dark" alt="Carlos's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Desconocido502/javascript_basico">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Desconocido502&repo=javascript_basico&theme=ocean_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Desconocido502&repo=javascript_basico&theme=aura_dark" />
 </a>
 
-You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+You can find me on [![LinkedIn][3.2]][3].
+
