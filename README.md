@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 # console.log("Hello world!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ")
 
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
-
 --------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://github.com/Desconocido502/Desconocido502">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desconocido502&hide=java,html,tex&theme=ocean_dark" />
