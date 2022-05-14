@@ -1,6 +1,6 @@
 # console.log("Hello world!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ")
 
-Hi!!!!, I'm Carlos and I'm learning web development, my favorite language is Javascript, and I love to learn a lot about web technologies and Javascript.
+Hi!!!!, I'm Carlos and I'm software development student, my favorite language is Javascript, and I love to learn a lot about web technologies and Javascript.
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
