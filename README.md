@@ -26,3 +26,7 @@ const Desconocido502 = {
 <a href="https://github.com/Desconocido502/javascript_basico">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Desconocido502&repo=javascript_basico&theme=aura_dark" />
 </a>
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://github.com/MartinHeinz
+[3]: https://www.linkedin.com/in/heinz-martin/
