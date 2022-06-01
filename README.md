@@ -1,4 +1,4 @@
-# console.log("Hello world!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> ")
+# console.log("Hello world!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" > ")
 
 Hi !!!!, I'm Carlos and I'm a software development student, my favorite language is Javascript, and I love to learn a lot about web technologies and Javascript. I also love playing COD for mobiles.
 
